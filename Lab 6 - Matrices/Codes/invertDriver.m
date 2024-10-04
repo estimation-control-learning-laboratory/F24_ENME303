@@ -1,5 +1,6 @@
 % This is a driver for the invert(A) function defined in invert.m
 clear; clc; close all;
+format longe
 
 % Create a matrix to invert
 A1 = [1 2;3 4];
